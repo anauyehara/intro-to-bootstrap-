@@ -1,0 +1,81 @@
+.main-nav {
+  background-color: rgb(238, 53, 6);
+  padding: 0px
+}
+.nav-list {
+  float: right;
+  list-style-type: none;
+  
+     
+}
+
+.no-list-style {
+  list-style-type: none;
+  border-top: 10px
+
+}
+.center {
+  float: left;
+  padding: 10px;
+  top: 10px;
+}
+
+.content {
+
+
+}
+.button {
+  border-radius: 10px;
+  color: rgba(61, 63, 85, 0.568);
+  font-size: 24px;
+  padding: 10px;
+  
+}
+
+.button-success {
+  
+  border: none rgb(63, 62, 62) ;
+  background:blue;
+  color:blue;
+ 
+  }
+/* .button-danger { */
+  
+  /* border: none red; */
+  /* background: blue; */
+  /* color: black; */
+     
+/* } */
+
+.button-small{
+  width: 150px:
+
+}
+
+/* .button-default { */
+  /* border: none red; */
+  /* background: rgb(74, 73, 83) */
+  /* color: black; */
+      
+/* } */
+
+/* span { */
+  /* background-color: yellowgreen */
+/* } */
+/* .family > span { */
+  /* background-color: orange; */
+/* } */
+/* .second-span ~.first-span{ */
+  /* color: red; */
+/* } */
+/* .footer { */
+  /* background-color:rgb(14, 13, 13); */
+  /* border-bottom-width: 0px */
+  /* padding: 5px */
+/* } */
+
+.footer {
+  background-color: black
+  border:top
+  /* padding: 5px */
+}
