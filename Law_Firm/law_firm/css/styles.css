@@ -5,6 +5,7 @@
  .nav-list { 
  float: right;
  list-style-type: none; 
+ align-items: flex-start;
   
      
  } 
