@@ -2,12 +2,12 @@
   background-color: rgb(238, 53, 6);
   padding: 0px
 }
-.nav-list {
-  float: right;
-  list-style-type: none;
+ .nav-list { 
+ float: right;
+ list-style-type: none; 
   
      
-}
+ } 
 
 .no-list-style {
   list-style-type: none;
@@ -39,6 +39,8 @@
   color:blue;
  
   }
+
+  
 /* .button-danger { */
   
   /* border: none red; */
